@@ -1,0 +1,485 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.logo{
+	font-size: 30px;
+}
+.menu ul{
+	background-color: #2c3a42;
+	opacity: .9;
+	text-align: right;
+}
+.menu ul li{
+	background-color: #2c3a42;
+	padding: 0 !important;
+}
+.menu ul li a{
+	font-size: 20px;
+}
+.cus-toggler{
+	padding: 2px 5px;
+}
+.header_last{
+	padding: 30px 0;
+	margin: 20px 0;
+}
+.content_h{
+	font-size: 25px;
+}
+.content_hw{
+	font-size: 25px;
+}
+.main_heading{
+	font-size: 40px;
+}
+.header_last a{
+	font-size: 15px;
+}
+/*header end*/
+/*slider start*/
+.slider{
+	padding: 20px 0;
+}
+.s1_left h3{
+	font-size: 18px;
+	margin: 5px 0 15px 0;
+}
+.s1_left p{
+	font-size: 15px;
+	line-height: 23px;
+}
+/*slider end*/
+/*section3 start*/
+.s3{
+	padding: 30px 0;
+}
+.s3 p{
+	font-size: 16px;
+}
+.circle{
+	width: 20px;
+	height: 20px;
+}
+/*section3 end*/
+/*menu start*/
+.menu-plate{
+	padding: 20px 0;
+}
+.top_heading{
+	padding: 10px 0;
+}
+.item_price{
+	padding: 5px 0;
+}
+.item_price h3{
+	font-size: 15px;
+}
+.item_price p{
+	font-size: 13px;
+}
+/*menu end*/
+/*section4 start*/
+.s4_content{
+	padding: 20px 0;
+}
+.s4_content h2{
+	font-size: 20px;
+}
+.s4_content p{
+	font-size: 13px;
+	line-height: 20px;
+	margin: 8px 0;
+}
+.s4_content ul{
+	margin: 8px 0;
+}
+.some-link li{
+	padding: 0 8px;
+}
+.some-link li a{
+	font-size: 15px;
+}
+/*section4 end*/
+/*section5 start*/
+.s5{
+	padding: 20px 0;
+}
+.sin-new{
+	margin-bottom: 16px;
+	text-align: center;
+}
+.sin-new p{
+	font-size: 14px;
+}
+.chi_pic{
+	margin: 4px auto;
+}
+.chi_des h4{
+	font-size: 16px;
+}
+.card-cust{
+	margin: 15px 0;
+}
+.b_date {
+	font-size: 10px;
+}
+.b_descrp {
+	font-size: 15px;
+}
+.b_parag {
+	font-size: 14px;
+}
+/*section5 end*/
+/*section6 start*/
+.s6{
+	padding: 20px 0;
+}
+.book-here h2{
+	font-size: 40px;
+}
+.cus-f1{
+	width: 100%;
+    margin-bottom: 10px;
+}
+/*section6 end*/
+/*team start*/
+.team{
+	padding: 20px 0;
+}
+.cus-mem-col{
+	margin-bottom: 20px;
+}
+/*team end*/
+/*quote section start*/
+ .quote{
+	padding: 20px 0; 
+}
+.qicon i{
+	font-size: 30px;
+}
+.smedia-link li{
+	font-size: 25px;
+	width: 35px;
+	height: 35px;
+	margin: 0 10px;
+}
+ /*quote section end*/
+ /*footer start*/
+ footer{
+ 	padding: 20px 0;
+ 	text-align: center;
+}
+.cus-f-link{
+	margin-top: 20px;
+}
+ /*footer end*/
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.menu ul{
+	background-color: #2c3a42;
+	opacity: .9;
+	text-align: right;
+}
+.menu ul li{
+	background-color: #2c3a42;
+	padding: 0 !important;
+}
+.menu ul li a{
+	font-size: 25px;
+}
+.header_last{
+	margin: 30px 0;
+}
+.content_h{
+	font-size: 30px;
+}
+.content_hw{
+	font-size: 30px;
+}
+.main_heading{
+	font-size: 65px;
+}
+.header_last a{
+	font-size: 20px;
+}
+/*header end*/
+/*slider start*/
+.s1_left h3{
+	font-size: 15px;
+	margin: 5px 0 15px 0;
+}
+.s1_left p{
+	font-size: 14px;
+	line-height: 20px;
+}
+/*slider end*/
+/*section3 start*/
+.s3{
+	padding: 30px 0;
+}
+/*section3 end*/
+/*menu start*/
+.menu-plate{
+	padding: 30px 0;
+}
+.top_heading{
+	padding: 10px 0;
+}
+.item_price{
+	padding: 45px 0;
+}
+.item_price h3{
+	font-size: 18px;
+}
+.item_price p{
+	font-size: 15px;
+}
+/*menu end*/
+/*section4 start*/
+.s4_content{
+	padding: 30px 0;
+}
+.s4_content h2{
+	font-size: 20px;
+}
+.s4_content p{
+	font-size: 15px;
+	line-height: 20px;
+	margin: 8px 0;
+}
+.s4_content ul{
+	margin: 8px 0;
+}
+/*section4 end*/
+/*section5 start*/
+.s5{
+	padding: 30px 0;
+}
+.sin-new{
+	margin-bottom: 16px;
+	text-align: center;
+}
+.sin-new p{
+	font-size: 14px;
+}
+.chi_pic{
+	margin: 5px auto;
+}
+.chi_des h4{
+	font-size: 16px;
+}
+.card-cust{
+	margin: 30px 0;
+}
+.b_date {
+	font-size: 10px;
+}
+.b_descrp {
+	font-size: 15px;
+}
+.b_parag {
+	font-size: 14px;
+}
+/*section5 end*/
+/*section6 start*/
+.s6{
+	padding: 30px 0;
+}
+.book-here h2{
+	font-size: 65px;
+}
+.cus-f1{
+	width: 100%;
+    margin-bottom: 20px;
+}
+/*section6 end*/
+/*team start*/
+.team{
+	padding: 30px 0;
+}
+#talkbubble {
+    height: 184px;
+}
+#talkbubble:before {
+    top: 178px;
+    left: 19px;
+}
+/*team end*/
+/*quote section start*/
+ .quote{
+	padding: 30px 0; 
+}
+.qicon i{
+	font-size: 30px;
+}
+.smedia-link li{
+	margin: 0 15px;
+}
+ /*quote section end*/
+ /*footer start*/
+ footer{
+ 	padding: 30px 0;
+ 	text-align: center;
+}
+.cus-f-link{
+	margin-top: 30px;
+}
+ /*footer end*/
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menu ul{
+	background-color: #2c3a42;
+	opacity: .9;
+	text-align: right;
+}
+.menu ul li{
+	background-color: #2c3a42;
+	padding: 0 !important;
+}
+.menu ul li a{
+	font-size: 25px;
+}
+.content_h{
+	font-size: 30px;
+}
+.content_hw{
+	font-size: 30px;
+}
+.main_heading{
+	font-size: 65px;
+}
+.header_last a{
+	font-size: 20px;
+}
+/*header end*/
+/*slider start*/
+.s1_left h3{
+	font-size: 20px;
+	margin: 5px 0 25px 0;
+}
+.s1_left p{
+	font-size: 15px;
+}
+/*slider end*/
+/*section3 start*/
+.s3{
+	padding: 40px 0;
+}
+.s3 p{
+	font-size: 15px;
+}
+/*section3 end*/
+/*menu start*/
+.menu-plate{
+	padding: 50px 0;
+}
+.top_heading{
+	padding: 20px 0;
+}
+.item_price{
+	padding: 14px 0;
+}
+.item_price h3{
+	font-size: 16px;
+}
+.item_price p{
+	font-size: 14px;
+}
+/*menu end*/
+/*section4 start*/
+.s4_content{
+	padding: 30px 0;
+}
+.s4_content h2{
+	font-size: 18px;
+}
+.s4_content p{
+	font-size: 13px;
+	line-height: 20px;
+	margin: 8px 0;
+}
+.s4_content ul{
+	margin: 4px 0;
+}
+/*section4 end*/
+/*section5 start*/
+.s5{
+	padding: 30px 0;
+}
+.sin-new{
+	margin-bottom: 20px;
+}
+.sin-new p{
+	font-size: 15px;
+}
+.chi_des h4{
+	font-size: 16px;
+}
+.card-cust{
+	margin: 30px 0;
+}
+.b_date {
+	font-size: 10px;
+}
+.b_descrp {
+	font-size: 15px;
+}
+.b_parag {
+	font-size: 14px;
+}
+/*section5 end*/
+/*section6 start*/
+.s6{
+	padding: 30px 0;
+}
+.book-here h2{
+	font-size: 65px;
+}
+/*section6 end*/
+/*team start*/
+.team{
+	padding: 30px 0;
+}
+/*team end*/
+ /*quote section start*/
+ .quote{
+	padding: 30px 0; 
+}
+.qicon i{
+	font-size: 30px;
+}
+.smedia-link li{
+	margin: 0 20px;
+}
+ /*quote section end*/
+ /*footer start*/
+ footer{
+ 	padding: 30px 0;
+}
+ /*footer end*/
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.header_last h1{
+	font-size: 85px;
+}
+/*header end*/
+/*slider start*/
+.s1_left h3{
+	margin: 35px 0 45px 0;
+}
+/*slider end*/
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
